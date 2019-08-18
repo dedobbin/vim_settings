@@ -2,6 +2,7 @@ set number
 set mouse=a
 set hlsearch
 set smartcase
+set tabstop=4
 
 :map <C-a> GVgg
 :map <C-n> :enew
